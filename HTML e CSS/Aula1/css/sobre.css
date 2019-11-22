@@ -1,0 +1,32 @@
+body {
+	background-color: #EE82EE;
+	font-family: helvetica;
+	background-image: .img/sobre-background.jpg;
+}
+
+h1 {
+	background-image: url('../img/sobre-background.jpg');
+}
+
+h2 {
+	border: medium solid #000000;
+}
+
+figure {
+	background-color: #D3D3D3;
+	border: 1px solid #000000;
+}
+
+#idFigure {
+	margin-center: 50%;
+}
+
+
+footer > img {
+	width: 10%;
+	float: right;
+}
+
+.requests {
+	text-align: right;
+}

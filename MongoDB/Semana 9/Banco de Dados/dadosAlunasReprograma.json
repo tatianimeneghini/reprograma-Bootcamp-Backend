@@ -1,0 +1,51 @@
+/* 1 */
+{
+    "_id" : ObjectId("5dc9fb32cfed82c91b6ba0c9"),
+    "nome" : "Tatiani Meneghini",
+    "idade" : 28,
+    "cpf" : null,
+    "legal" : true
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5dc9fba0cfed82c91b6ba0e2"),
+    "nome" : "Paula Morais",
+    "idade" : 29,
+    "legal" : true,
+    "endereco" : {
+        "rua" : "rua do lado",
+        "numero" : 22
+    },
+    "data nascimento" : ISODate("1989-12-22T02:41:19.198Z")
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5dc9fbf1cfed82c91b6ba0eb"),
+    "nome" : "Emily Durães",
+    "idade" : 24,
+    "cidade natal" : "Belo Horizonte",
+    "cpf" : null,
+    "pet" : "gato"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5dc9fc8bcfed82c91b6ba108"),
+    "nome" : "Day Ane",
+    "apelido" : "Baby shark",
+    "idade" : 21,
+    "cidade natal" : "Santa Brigida",
+    "signo" : "sagitário",
+    "cpf" : null,
+    "data nascimento" : ISODate("1997-12-17T07:35:19.199Z")
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5dcb310b71d2f8ebcc983987"),
+    "nome" : "Fernanda",
+    "cpf" : null,
+    "idade" : 26
+}
