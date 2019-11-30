@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Exercícios da turma N3 do Bootcamp de Back-end da {reprograma}
+# Exercícios da turma N3 do Bootcamp de Back-end da {reprograma} :computer:
 
 Repositório com os exercícios realizados durante as semanas de 13 de setembro a 17 de dezembro de 2019.
 
