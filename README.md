@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercícios da turma N3 do Bootcamp de Back-end da {reprograma}
 
 Repositório com os exercícios realizados durante as semanas de 13 de setembro a 17 de dezembro de 2019.
@@ -11,3 +12,6 @@ A organização do repositório está dividindo conforme o Cronograma da turma N
 
 ## Professoras
 As professoras, em ordem de aula, é: Débora Borges, Juliana Amoasei, Kelly Joany de Oliveira, Josélia Costa, Letícia Tiveron e Anna Flávia.
+=======
+Reprograma.
+>>>>>>> 42de36cecd3c426403ccd5b41467d01066f78c57
